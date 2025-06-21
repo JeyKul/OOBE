@@ -23,36 +23,36 @@ ms-cxh://DEFAULT                                   | ↑↑↑↑↑↑
 ms-cxh://FRX                                       | ↑↑↑↑↑↑
 ms-cxh://FRXAAD                                    | Starts a Microsoft Login
 ms-cxh://FRXRDX                                    | Way to access Demo Content and Apps?? If you click advanced config bricks oobe user...
+ms-cxh://RDXPOSTOOBE                               | ↑↑↑↑↑↑
+ms-cxh://RDXRACSKU                                 | ↑↑↑↑↑↑
+ms-cxh://RDXPOSTOOBEINCLUSIVE                      | ↑↑↑↑↑↑ But another UI!
+ms-cxh://RDXRACSKUINCLUSIVE                        | ↑↑↑↑↑↑
 ms-cxh://NTH                                       | Launches with an Error then bricks oobe user if you click retry.
 ms-cxh://NTHAAD                                    | Launches a Windows Hello setup. If you click next, you get error. if you click skip it bricks oobe user, lol
-ms-cxh://NTHAADNGCFIXME                            |  you get error. if you click skip it bricks oobe user, lol
-ms-cxh://NTHAADNGCONLY                             |
-ms-cxh://NTHAADNGCRESET                            |
-ms-cxh://NTHAADRECOVERY                            |
-ms-cxh://NTHENT                                    |
-ms-cxh://NTHENTORMDM                               |
+ms-cxh://NTHAADNGCFIXME                            | You get error. if you click skip it bricks oobe user, lol
+ms-cxh://NTHAADNGCONLY                             | Restarts you into fallback and if you click next starts the normal one.
+ms-cxh://NTHAADNGCRESET                            | ↑↑↑↑↑↑
+ms-cxh://NTHAADRECOVERY                            | Starts a Window, telling you that theres a problem, then same as above.
 ms-cxh://NTHAADORMDM                               | Boom (breaks oobe user??????)
+ms-cxh://NTHENTORMDM                               | ↑↑↑↑↑↑
 ms-cxh://NTHENTNGCFIXME                            | Opens a force Windows Hello setup!
-ms-cxh://NTHENTNGCONLY                             |
-ms-cxh://NTHENTNGCRESET                            |
-ms-cxh://NTHMSA                                    |
-ms-cxh://NTHNGCUPSELL                              |
-ms-cxh://RDXPOSTOOBE                               |
-ms-cxh://RDXPOSTOOBEINCLUSIVE                      |
-ms-cxh://RDXRACSKU                                 |
-ms-cxh://RDXRACSKUINCLUSIVE                        |
-ms-cxh://FRXSURFACEHUB                             |
-ms-cxh://INCLUSIVETEST                             |
+ms-cxh://NTHENT                                    | ↑↑↑↑↑↑
+ms-cxh://NTHENTNGCONLY                             | ↑↑↑↑↑↑
+ms-cxh://NTHENTNGCRESET                            | ↑↑↑↑↑↑
+ms-cxh://NTHMSA                                    | Restarts OOBE
+ms-cxh://NTHNGCUPSELL                              | Create a Pin -> Fail -> Probaly brick
+ms-cxh://FRXSURFACEHUB                             | Restarts OOBE and breaks when i do Shift + F10
+ms-cxh://INCLUSIVETEST                             | Restarts OOBE
 ms-cxh://ATEST                                     | Seems to restart OOBE
-ms-cxh://MSACFLPINRESET                            |
-ms-cxh://MSACFLPINRESETSIGNIN                      |
-ms-cxh://MSASSPR                                   |
-ms-cxh://AADPINRESETAUTH                           |
-ms-cxh://AADSSPR                                   |
-ms-cxh://AADSSPRV2                                 |
-ms-cxh://AADWEBAUTH                                |
-ms-cxh://MOSETMDMCONNECTTOWORKPROVISIONINGPROGRESS |
-ms-cxh://NTHEXPEDITEDUPDATE                        |
+ms-cxh://MSACFLPINRESET                            | Error -> if abort -> Fallback -> OOBE
+ms-cxh://MSACFLPINRESETSIGNIN                      | "You need a Internet connection" *Breaks OOBE User*
+ms-cxh://MSASSPR                                   | ↑↑↑↑↑↑
+ms-cxh://AADPINRESETAUTH                           | ↑↑↑↑↑↑
+ms-cxh://AADSSPR                                   | Error -> Fallback -> OOBE
+ms-cxh://AADSSPRV2                                 | ↑↑↑↑↑↑ 
+ms-cxh://AADWEBAUTH                                | "You need a Internet connection", thats it.. really
+ms-cxh://MOSETMDMCONNECTTOWORKPROVISIONINGPROGRESS | Weird smol OOBE for Domain shit?
+ms-cxh://NTHEXPEDITEDUPDATE                        | Blackscreen with a "Busy" Cursor -> Desktop but no Taskbar? We are DefaultUser0! -> Restart = brick ahahhaha
 
 
 
