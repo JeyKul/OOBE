@@ -53,6 +53,8 @@ ms-cxh://AADSSPRV2                                 | ↑↑↑↑↑↑
 ms-cxh://AADWEBAUTH                                | "You need a Internet connection", thats it.. really
 ms-cxh://MOSETMDMCONNECTTOWORKPROVISIONINGPROGRESS | Weird smol OOBE for Domain shit?
 ms-cxh://NTHEXPEDITEDUPDATE                        | Blackscreen with a "Busy" Cursor -> Desktop but no Taskbar? We are DefaultUser0! -> Restart = brick ahahhaha
+ms-cxh://FRXOOBEA                                  | Restarts OOBE
+ms-cxh://SURFACEHUBSETADDDEVICEUSER                | Restarts OOBE
 
 
 
